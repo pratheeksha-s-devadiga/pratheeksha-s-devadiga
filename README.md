@@ -44,6 +44,13 @@ I specialize in developing end-to-end ML and Generative AI applications, from da
 
 Strong believer in continuous learning, I quickly adapt to new AI frameworks, research trends, and production tools to stay aligned with the evolving AI ecosystem.
 
+## 🤝 Connect With Me
+
+- 🌐 [Portfolio](https://pratheekshasomanathdevadiga.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pratheeksha-s-devadiga)
+- 💻 [GitHub](https://github.com/pratheeksha-s-devadiga)
+- 📧 [Email](mailto:pratheekshadevadiga196@gmail.com)
+
 
 
 
