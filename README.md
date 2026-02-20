@@ -16,6 +16,34 @@ I specialize in developing end-to-end ML and Generative AI applications, from da
 - Integrated speech-to-text and text-to-speech for seamless conversational interaction.  
 - Deployed the application on Hugging Face Spaces for real-time accessibility.
 
+## Technical Skills
+
+### Programming & Databases
+- Python (NumPy, Pandas, Matplotlib, Seaborn, PyTorch, Streamlit)
+- SQL
+
+### Machine Learning & Generative AI
+- Scikit-learn
+- Machine Learning Algorithms
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases (FAISS, Chroma)
+
+### Core Fundamentals
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+
+### Deployment & Platforms
+- Streamlit Cloud
+- Hugging Face Spaces
+
+### Tools
+- Jupyter Notebook
+- VS Code
+- Git & GitHub
+
+
+
 
 
 
