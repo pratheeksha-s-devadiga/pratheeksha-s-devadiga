@@ -52,7 +52,7 @@ Strong believer in continuous learning, I quickly adapt to new AI frameworks, re
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 - 🌐 [Portfolio](https://pratheekshasomanathdevadiga.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pratheeksha-s-devadiga)
