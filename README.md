@@ -48,7 +48,7 @@ I specialize in developing end-to-end ML and Generative AI applications, from da
 - VS Code
 - Git & GitHub
 
-Strong believer in continuous learning, I quickly adapt to new AI frameworks, research trends, and production tools to stay aligned with the evolving AI ecosystem.
+As a strong believer in continuous learning, I quickly adapt to new AI frameworks, research trends, and production tools to stay aligned with the evolving AI ecosystem.
 
 ---
 
