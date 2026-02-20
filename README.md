@@ -2,6 +2,8 @@
 I'm a Machine Learning Engineer building scalable AI systems that transform data into impactful, real-world solutions.<br><br>
 I specialize in developing end-to-end ML and Generative AI applications, from data engineering and model optimization to deploying real-time intelligent systems.
 
+---
+
 ## What I've Built
 
 ### [Brain Tumor Prediction System](https://brain-tumor-prediction-app-app-7uxnliu2gdefmyu5sgoamh.streamlit.app/)
@@ -15,6 +17,8 @@ I specialize in developing end-to-end ML and Generative AI applications, from da
 - Built a multimodal AI assistant capable of analyzing medical images and voice queries to generate health insights using LLMs.  
 - Integrated speech-to-text and text-to-speech for seamless conversational interaction.  
 - Deployed the application on Hugging Face Spaces for real-time accessibility.
+
+---
 
 ## Technologies I Work With
 
@@ -43,6 +47,8 @@ I specialize in developing end-to-end ML and Generative AI applications, from da
 - Git & GitHub
 
 Strong believer in continuous learning, I quickly adapt to new AI frameworks, research trends, and production tools to stay aligned with the evolving AI ecosystem.
+
+---
 
 ## 🤝 Connect With Me
 
