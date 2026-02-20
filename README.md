@@ -51,6 +51,8 @@ Strong believer in continuous learning, I quickly adapt to new AI frameworks, re
 - 💻 [GitHub](https://github.com/pratheeksha-s-devadiga)
 - 📧 [Email](mailto:pratheekshadevadiga196@gmail.com)
 
+Building scalable AI systems, continuously learning, and open to impactful collaborations in Machine Learning and Generative AI.
+
 
 
 
